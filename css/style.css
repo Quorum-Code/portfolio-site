@@ -6,15 +6,15 @@
 
 /* TODO: update from boilerplate */
 :root {
-    --ff-primary: 'Source Sans Pro', sans-serif;
-    --ff-secondary: 'Source Code Pro', monospace;
+    --ff-primary: 'Inconsolata', monospace;
+    --ff-secondary: 'Kanit', monospace;
     
-    --fw-reg: 300;
+    --fw-reg: 400;
     --fw-bold: 900;
     
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-accent: #2980f3;
     
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -124,6 +124,9 @@ h3 { font-size: var(--fs-h3) }
 /* header */
 
 header {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
     display: flex;
     justify-content: space-between;
     padding: 1em;
@@ -131,6 +134,7 @@ header {
 
 .logo {
     max-width: 50px;
+    z-index: 1000;
 }
 
 .nav {
@@ -138,7 +142,7 @@ header {
     background: var(--clr-dark);
     color: var(--clr-light);
     top: 0;
-    bottom: 0;
+    bottom: 70%;
     left: 0;
     right: 0;
     z-index: 100;
@@ -152,7 +156,6 @@ header {
     display: flex;
     height: 100%;
     flex-direction: column;
-    justify-content: space-evenly;
     align-items: center;
     margin: 0;
     padding: 0;
@@ -188,6 +191,7 @@ header {
 }
 
 .nav-open .hamburger {
+    filter: invert(1);
     transform: rotate(.625turn);
 }
 
@@ -230,6 +234,13 @@ header {
 .hamburger::before { top: 6px; }
 .hamburger::after { bottom: 6px; }
 
+@media (max-width: 800px) {
+    .nav {
+        bottom: 0;
+        font-weight: var(--fw-bold);
+    }
+}
+
 /* intro */
 
 .intro {
@@ -240,7 +251,7 @@ header {
     box-shadow: var(--bs);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
     .intro {
         display: grid;
         width: min-content;
@@ -324,11 +335,16 @@ header {
     margin: 0 auto;
 }
 
+.about-me__body {
+    font: var(--ff-secondary);
+    font-weight: 500;
+}
+
 .about-me__img {
     box-shadow: var(--bs);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 800px) {
     .about-me {
         display: grid;
         grid-template-columns: 1fr 200px;
@@ -383,15 +399,11 @@ header {
     opacity: .7;
 }
 
-.footer__link:hover {
-    text-decoration: underline;
-}
-
 .social-list {
     list-style: none;
     display: flex;
     justify-content: center;
-    margin: 2em 0 0;
+    margin: 1em 0 0;
     padding: 0;
 }
 
