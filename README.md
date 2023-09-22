@@ -1,21 +1,7 @@
-# c9gb7EhD
+# My Portfolio Website
 
-Quick start:
+My name is Evan Putnam and I designed this website to be able to showcase my skills and projects. The website will include access to the source code and examples of my projects as well as my resume. The site uses HTML, CSS, PHP, and Javascript.
 
-```
-$ npm install
-$ npm start
-````
+Thanks for viewing my repo!
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+- [Check it out at evanputnam.dev](https://evanputnam.dev)
