@@ -74,7 +74,7 @@ strong { font-weight: var(--fw-bold) }
     color: var(--clr-dark);
     text-decoration: none;
     cursor: pointer;
-    font-size: .8rem;
+    font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: var(--fw-bold);
@@ -300,7 +300,7 @@ header {
     display: block;
     width: 2.5em;
     height: 1px;
-    margin: 0.5em auto 1em;
+    margin: 0.5em auto 0.25em;
     background: var(--clr-light);
     opacity: 0.25;
 }
@@ -310,9 +310,20 @@ header {
 }
 
 .project {
+    text-align: center;
     max-width: 600px;
     min-width: 30%;
     margin: 0 auto;
+}
+
+.project-title {
+    min-height: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.project-text {
+    text-align: justify;    
 }
 
 @media (min-width: 800px) {
@@ -320,18 +331,52 @@ header {
         display: flex;
         align-items: flex-start;
         justify-content: center;
-        max-width: 1000px;
+        max-width: 1200px;
         margin-left: auto;
         margin-right: auto;
     }
     
-    .project + .project {
-        margin-left: 2em;
+    .project {
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+}
+
+.section__title--skills {
+    color: var(--clr-dark);
+    text-align: center;
+}
+
+.section__text--skills {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.skills {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skill {
+    align-items: left;
+    min-width: 200px;
+}
+
+@media (max-width: 800px) {
+    .skills {
+        max-width: 250px;
     }
 }
 
 .about-me {
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -419,6 +464,6 @@ header {
 
 .portfolio-item-individual {
     padding: 0 2em 2em;
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
 }

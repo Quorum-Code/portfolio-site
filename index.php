@@ -1,25 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-        <!-- Normalization -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" /> 
-        
-        <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;700&family=Kanit:wght@300;400&display=swap" rel="stylesheet">
-        
-        <!-- LinkedIn and GitHub Logos -->
-        <script src="https://kit.fontawesome.com/bac53ef6fe.js" crossorigin="anonymous"></script>
-        
-        <title> Evan Putnam - Portfolio </title>
-        <link rel="icon" type="image/x-icon" href="img/favicon.ico">
-        <link rel="stylesheet" href="css/style.css">
-    </head>
+    <?php include 'head.php' ?>
     
     <body>
         <!-- Header -->
@@ -39,42 +20,74 @@
             <h2 class="section__title section__title--projects">My Projects</h2>
             <div class="projects">
                 <div class="project">
-                    <h3>Lightweight Drone Simulator</h3>
-                    <p>
-                        Over a 10 week period, I worked alongside two other students to design, develop, and test a Lightweight Drone Simulator. The project was under Dr. Cihan Tunc, a professor from University of North Texas. The purpose of the project was to develop a software that can be used to simulate a large number of drones and their behaviors as quickly as possible. The difference between our simulator and others is that ours does not focus on graphic
+                    <h3 class="project-title">Lightweight Drone Simulator</h3>
+                    <p class="project-text">
+                        &nbsp;Over a 10 week period, I worked alongside two other students to design, develop, 
+                        and test a Lightweight Drone Simulator. The project was under Dr. Cihan Tunc, a 
+                        professor from University of North Texas. The purpose of the project was to develop 
+                        a software that can be used to simulate a large number of drones and their behaviors 
+                        as quickly as possible. The difference between our simulator and others is that ours 
+                        does not focus on graphic
                     </p>
                 </div>
                 
                 <div class="project">
-                    <h3> Photo Metadata Extractor Tool </h3>
-                    <p>
-                        The Photo Metadata Extractor Tool (PMET) is designed to speed up the process of cataloguing SuDoc
-			numbered books, with the possibility of expanding the tool to fit other document identifiers. 
-			This tool is the semester project for my capstone course, CS 458 Software Engineering.
+                    <h3 class="project-title"> Photo Metadata Extractor Tool </h3>
+                    <p class="project-text">
+                        &nbsp;The Photo Metadata Extractor Tool (PMET) is designed to speed up the process of 
+                        cataloguing SuDoc numbered books, with the possibility of expanding the tool to 
+                        fit other document identifiers. This tool is the semester project for my capstone 
+                        course, CS 458 Software Engineering.
                     </p>
                 </div>
                 
                 <div class="project">
-                    <h3> Interactive Campus Map </h3>
-                    <p>
-                       Project in progress. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. 
+                    <h3 class="project-title"> Interactive Campus Map </h3>
+                    <p class="project-text">
+                        &nbsp;Project in progress. Some text. Some text. Some text. Some text. Some text. Some text. 
+                       Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. 
                     </p>
                 </div>
             </div>
             
-            <a href="#access-projects" class="btn"> View Projects </a>
+            <a href="#access-projects" class="btn"> View All Projects </a>
         </section>
         
         <!-- My Skills -->
         <section class="my-skills" id="my-skills">
         	<h2 class="section__title section__title--skills"> My Skills </h2>
-		<p> Here is a comprehensive list of my skills. </p>
+		    <p class="section__text--skills"> 
+                Click on a skill to see what projects include them.
+            </p>
+            <div class="skills">
+                <ul class="skill">
+                    <li>C#</li>
+                    <li>C/C++</li>
+                    <li>Python</li>
+                    <li>Java</li>
+                    <li>PHP</li>
+                    <li>Javascript</li>
+                </ul>
+
+                <ul class="skill">
+                    <li>SQL</li>
+                    <li>PL/SQL</li>
+                    <li>JSON</li>
+                    <li>XML</li>
+                </ul>
+
+                <ul class="skill">
+                    <li>VSCode/VisualStudio</li>
+                    <li>Git/GitHub</li>
+                    <li>Bash</li>
+                </ul>
+            </div>
         </section>
         
         <!-- About Me -->
         <section class="about-me" id="about">
-                <h2 class="section__title section__title--about">Who I am</h2>
-                <p class="section__subtitle section__subtitle--about"> Software Developer </p>
+                <h2 class="section__title section__title--about">About Me</h2>
+                <p class="section__subtitle section__subtitle--about"> Schooling and Hobbies </p>
                 
                 <div class="about-me__body">
                     <p>
