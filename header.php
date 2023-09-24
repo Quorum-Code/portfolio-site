@@ -1,6 +1,8 @@
 <header>
 	<div class="logo">
-		<img src="img/my-logo-b.png">
+		<a href="/index.php">
+			<img src="img/my-logo-b.png">
+		</a>
 	</div>
 	<button class="nav-toggle" aria-label="toggle navigation">
 		<span class="hamburger"></span>

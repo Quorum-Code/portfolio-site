@@ -1,0 +1,55 @@
+{
+    "projects":
+    [
+        {
+            "title" : "My Portfolio Website",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "An explanation of methods and access to the GitHub repository.",
+            "URL" : "https://evanputnam.dev/projects/this-website",
+            "last-update" : "09/24/2023",
+            "in-progress" : true,
+            
+            "tags" : [ "HTML", "CSS", "Javascript", "PHP", "JSON" ]
+        },
+
+        {
+            "title" : "Lightweight Drone Simulator",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "Access to the paper and GitLab repository.",
+            "URL" : "https://evanputnam.dev/projects/lightweight-drone-simulator",
+            "in-progress" : true,
+            "last-update" : "08/18/2023",
+            "tags" : [ "Python", "JSON" ]
+        },
+
+        {
+            "title" : "Project Override",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "A rogue-like game made in Unity.",
+            "URL" : "https://evanputnam.dev/projects/project-override",
+            "in-progress" : true,
+            "last-update" : "09/24/2023",
+            "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling" ]
+        },
+
+        {
+            "title" : "CS 325 Databases - Assignments",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "A repository containing all of my .",
+            "URL" : "https://evanputnam.dev/projects/cs-325-assignments",
+            "in-progress" : true,
+            "last-update" : "12/15/2022",
+            "tags" : [ "SQL" ]
+        },
+
+        {
+            "title" : "CS 328 Web Apps Using Database - Assignments",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "A repository containing all of my assignments for CS 328.",
+            "URL" : "https://evanputnam.dev/projects/cs-328-assignments",
+            "in-progress" : true,
+            "last-update" : "05/13/2023",
+            "tags" : [ "HTML", "CSS", "PHP", "Javascript", "SQL", "PL/SQL", "XML" ]
+        }
+    ]
+}

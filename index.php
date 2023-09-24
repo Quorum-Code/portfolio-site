@@ -50,7 +50,7 @@
                 </div>
             </div>
             
-            <a href="#access-projects" class="btn"> View All Projects </a>
+            <a href="/all-projects.php" class="btn"> View All Projects </a>
         </section>
         
         <!-- My Skills -->

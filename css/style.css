@@ -28,7 +28,7 @@
 @media (min-width: 800px) {
     :root {
         --fs-h1: 4.5rem;
-        --fs-h2: 3.75rem;
+        --fs-h2: 3rem;
         --fs-h3: 1.5rem;
         --fs-body: 1.125rem;
     }
@@ -241,7 +241,7 @@ header {
     }
 }
 
-/* intro */
+/* index Intro */
 
 .intro {
     position: relative;
@@ -280,6 +280,8 @@ header {
         width: calc(100% + 1.5em);
     }
 }
+
+/* index My Projects */
 
 .my-projects {
     background-color: var(--clr-dark);
@@ -342,6 +344,8 @@ header {
     }
 }
 
+/* index My Skills */
+
 .section__title--skills {
     color: var(--clr-dark);
     text-align: center;
@@ -374,6 +378,8 @@ header {
         max-width: 250px;
     }
 }
+
+/* index About Me */
 
 .about-me {
     max-width: 800px;
@@ -460,10 +466,39 @@ header {
     padding: .5em;
 }
 
-/* project items */
-
 .portfolio-item-individual {
     padding: 0 2em 2em;
     max-width: 800px;
     margin: 0 auto;
+}
+
+/* All Projects */
+
+.section__title--all-projects {
+    text-align: center;
+    padding: 1em;
+}
+
+.project-list {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+}
+
+.project-item {
+    margin-bottom: 3em;
+    display: flex;
+}
+
+.project-item-img {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 1em;
+}
+
+.project-item-text {
+    text-align: left;
+    margin: 1em;
+    max-width: 700px;
 }
