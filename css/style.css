@@ -13,6 +13,7 @@
     --fw-bold: 900;
     
     --clr-light: #fff;
+    --clr-soft: #ddd;
     --clr-dark: #303030;
     --clr-accent: #2980f3;
     
@@ -373,6 +374,15 @@ header {
     min-width: 200px;
 }
 
+.skill_link {
+    text-decoration: none;
+    color: var(--clr-dark);
+}
+
+.skill_link:hover {
+    opacity: .7;
+}
+
 @media (max-width: 800px) {
     .skills {
         max-width: 250px;
@@ -487,7 +497,8 @@ header {
 }
 
 .project-item {
-    margin-bottom: 3em;
+    outline: 2px solid var(--clr-soft);
+    margin-bottom: 1em;
     display: flex;
 }
 
@@ -501,4 +512,9 @@ header {
     text-align: left;
     margin: 1em;
     max-width: 700px;
+}
+
+.project-item-tags {
+    opacity: .8;
+    font-style: italic;
 }

@@ -3,33 +3,38 @@
     [
         {
             "title" : "My Portfolio Website",
-            "img-src" : "/img/my-logo-b.png",
+            "img-src" : "/img/project-thumbnails/my-logo-b.png",
             "desc" : "An explanation of methods and access to the GitHub repository.",
             "URL" : "https://evanputnam.dev/projects/this-website",
-            "last-update" : "09/24/2023",
-            "in-progress" : true,
-            
+            "last-update" : "09/25/2023",
             "tags" : [ "HTML", "CSS", "Javascript", "PHP", "JSON" ]
         },
 
         {
             "title" : "Lightweight Drone Simulator",
-            "img-src" : "/img/my-logo-b.png",
-            "desc" : "Access to the paper and GitLab repository.",
+            "img-src" : "/img/project-thumbnails/dsim-screenshot.png",
+            "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program. This projects includes the paper we wrote and a link to the Gitlab repository (I am only a maintainer on the repository so access may not be available to others) .",
             "URL" : "https://evanputnam.dev/projects/lightweight-drone-simulator",
-            "in-progress" : true,
             "last-update" : "08/18/2023",
             "tags" : [ "Python", "JSON" ]
         },
 
         {
             "title" : "Project Override",
-            "img-src" : "/img/my-logo-b.png",
+            "img-src" : "/img/project-thumbnails/override-snip.png",
             "desc" : "A rogue-like game made in Unity.",
             "URL" : "https://evanputnam.dev/projects/project-override",
-            "in-progress" : true,
             "last-update" : "09/24/2023",
             "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling" ]
+        },
+
+        {
+            "title" : "CS 279 Intro to Linux - Assignments",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "Intro to Linux is a course which focuses on commands and understanding system structure of linux based systems. This contains access to a repository with homework and lab assignments.",
+            "URL" : "https://evanputnam.dev/projects/cs-279-intro-to-linux-assignments",
+            "last-update" : "12/15/2022",
+            "tags" : [ "Bash" ]
         },
 
         {

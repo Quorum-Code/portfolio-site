@@ -27,7 +27,7 @@
                         professor from University of North Texas. The purpose of the project was to develop 
                         a software that can be used to simulate a large number of drones and their behaviors 
                         as quickly as possible. The difference between our simulator and others is that ours 
-                        does not focus on graphic
+                        does not focus on graphic quality and we use a simplified version of collision detection. 
                     </p>
                 </div>
                 
@@ -42,10 +42,12 @@
                 </div>
                 
                 <div class="project">
-                    <h3 class="project-title"> Interactive Campus Map </h3>
+                    <h3 class="project-title"> Project Override </h3>
                     <p class="project-text">
-                        &nbsp;Project in progress. Some text. Some text. Some text. Some text. Some text. Some text. 
-                       Some text. Some text. Some text. Some text. Some text. Some text. Some text. Some text. 
+                        &nbsp; A rogue-like first-person-shooter I am making in Unity. This is a long term project which I hope
+                        to eventually release on Steam but I enjoy continually improving and developing the game
+                        when I have time. Majority of the assets, like 3D models, textures, and C# scripts, I have developed
+                        myself.
                     </p>
                 </div>
             </div>
@@ -61,25 +63,24 @@
             </p>
             <div class="skills">
                 <ul class="skill">
-                    <li>C#</li>
-                    <li>C/C++</li>
-                    <li>Python</li>
-                    <li>Java</li>
-                    <li>PHP</li>
-                    <li>Javascript</li>
+                    <a class="skill_link" href="/all-projects.php?tag=C%23"><li>C#</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=C%2FC%2B%2B"><li>C/C++</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Python"><li>Python</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Java"><li>Java</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=PHP"><li>PHP</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Javascript"><li>Javascript</li></a>
                 </ul>
 
                 <ul class="skill">
-                    <li>SQL</li>
-                    <li>PL/SQL</li>
-                    <li>JSON</li>
-                    <li>XML</li>
+                    <a class="skill_link" href="/all-projects.php?tag=SQL"><li>SQL</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=PL%2FSQL"><li>PL/SQL</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=JSON"><li>JSON</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=XML"><li>XML</li></a>
                 </ul>
 
                 <ul class="skill">
-                    <li>VSCode/VisualStudio</li>
-                    <li>Git/GitHub</li>
-                    <li>Bash</li>
+                    <a class="skill_link" href="/all-projects.php?tag=Git%2FGithub"><li>Git/Github</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Bash"><li>Bash</li></a>
                 </ul>
             </div>
         </section>
