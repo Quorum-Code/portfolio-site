@@ -528,3 +528,10 @@ header {
     opacity: .8;
     font-style: italic;
 }
+
+/* Page not found */
+
+.section__error {
+    max-width: 1000px;
+    margin: auto auto;
+}
