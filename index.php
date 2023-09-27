@@ -86,19 +86,19 @@
         </section>
         
         <!-- About Me -->
-        <section class="about-me" id="about">
+        <section class="about-me section__about-me" id="about">
                 <h2 class="section__title section__title--about">About Me</h2>
                 <p class="section__subtitle section__subtitle--about"> Schooling and Hobbies </p>
                 
                 <div class="about-me__body">
-                    <p>
+                    <p class="about-me__text">
                         &nbsp;I am an undergraduate student at California Polytechnic Humboldt, 
 			            scheduled to graduate December 2023 with a B.S. in Computer Science. I have
                         also completed a Computer Science Associates for Transfer at the Los Rios 
                         Community College district.
 
                     </p>
-                    <p>
+                    <p class="about-me__text">
                         &nbsp;I like making and working on lots of different things which are
                         usually related to computers. One those things is participating in 
                         game jams, which is a kind of competition or challenge to create a

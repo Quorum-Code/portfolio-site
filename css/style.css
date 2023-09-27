@@ -323,8 +323,7 @@ header {
 }
 
 .project-title {
-    min-height: 2em;
-    margin-top: 1em;
+    margin-top: 1.5em;
     margin-bottom: 1em;
 }
 
@@ -394,6 +393,10 @@ header {
 
 /* index About Me */
 
+.section__about-me {
+    padding: 2em;
+}
+
 .about-me {
     margin: 0 auto;
 }
@@ -405,6 +408,11 @@ header {
 
 .about-me__img {
     box-shadow: var(--bs);
+}
+
+.about-me__text {
+    margin-top: 2em;
+    margin-bottom: 0em;
 }
 
 @media (min-width: 800px) {
@@ -435,8 +443,7 @@ header {
 }
 
 .resume-btn {
-    margin: 3em auto;
-
+    margin: 4em auto 6em auto;
 }
 
 /* footer */
