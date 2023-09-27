@@ -1,0 +1,7 @@
+# Error 404 response
+ErrorDocument 404 /page-not-found.php
+
+# URL rewrite to remove trailing '.php'
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME}.php !-f
+RewriteRule ^(.*)$ /$1.php [last,passthrough,qsappend]

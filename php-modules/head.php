@@ -19,6 +19,6 @@
     <script src="https://kit.fontawesome.com/bac53ef6fe.js" crossorigin="anonymous"></script>
         
     <title> Evan Putnam - Portfolio </title>
-    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="stylesheet" href="/css/style.css">
 </head>

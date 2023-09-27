@@ -1,7 +1,7 @@
 <header>
 	<div class="logo">
 		<a href="/">
-			<img src="img/my-logo-b.png">
+			<img src="/img/my-logo-b.png">
 		</a>
 	</div>
 	<button class="nav-toggle" aria-label="toggle navigation">
