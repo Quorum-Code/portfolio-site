@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php include 'head.php' ?>
+    <?php require 'php-modules/head.php' ?>
     
     <body>
         <!-- Header -->
-	<?php include 'header.php' ?>
+	<?php require 'php-modules/header.php' ?>
         
         <!-- Intro -->
         <section class="intro" id="home">
@@ -12,7 +12,7 @@
                 Hi, I am <strong>Evan Putnam</strong>
             </h1>
             <p class="section__subtitle section__subtitle--intro"> Software Developer </p>
-            <img src="img/portrait.jpg" alt="cat" class="intro__img">
+            <img src="img/portrait.jpg" alt="Headshot of Evan Putnam" class="intro__img">
         </section>
             
         <!-- Projects -->
@@ -92,17 +92,29 @@
                 
                 <div class="about-me__body">
                     <p>
-                        I am an undergraduate student at California Polytechnic Humboldt, 
-			scheduled to graduate December 2023 with a B.S. in Computer Science.
+                        &nbsp;I am an undergraduate student at California Polytechnic Humboldt, 
+			            scheduled to graduate December 2023 with a B.S. in Computer Science. I have
+                        also completed a Computer Science Associates for Transfer at the Los Rios 
+                        Community College district.
 
                     </p>
+                    <p>
+                        &nbsp;I like making and working on lots of different things which are
+                        usually related to computers. One those things is participating in 
+                        game jams, which is a kind of competition or challenge to create a
+                        game in a limited amount of time usually less than a week. Another
+                        hobby I have is tabletop gaming, which I like to make 3D models for
+                        and 3D print those as well.
+                    </p>
                 </div>
-                
-                <img src="img/cat2.jpg" alt="Bean lying on the ground horizontal" class="about-me__img">
         </section>
         
+        <div class="resume-btn">
+            <a href="downloads/Resume - Evan Putnam.pdf" class="btn" download=""> <h3>Download My Resume</h3> </a>
+        </div>
+
         <!-- Footer -->
-        <?php include 'footer.php' ?>
+        <?php require 'php-modules/footer.php' ?>
         
         <script src="js/index.js"></script>
     </body>

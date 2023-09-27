@@ -48,6 +48,9 @@ body {
     font-family: var(--ff-primary);
     font-size: var(--fs-body);
     line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 section {
@@ -392,7 +395,6 @@ header {
 /* index About Me */
 
 .about-me {
-    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -407,13 +409,8 @@ header {
 
 @media (min-width: 800px) {
     .about-me {
-        display: grid;
-        grid-template-columns: 1fr 200px;
-        grid-template-areas: 
-            "title img" 
-            "subtitle img" 
-            "text img";
-        grid-column-gap: 2em;
+        margin: 0 auto;
+        max-width: 800px;
     }
     
     .section__title--about {
@@ -437,6 +434,11 @@ header {
     }
 }
 
+.resume-btn {
+    margin: 3em auto;
+
+}
+
 /* footer */
 .footer {
     background: #222;
@@ -444,6 +446,7 @@ header {
     text-align: center;
     padding: 2.5em 0;
     font-size: var(--fs-h3);
+    margin-top: auto;
 }
 
 .footer a { 

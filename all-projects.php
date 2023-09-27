@@ -47,11 +47,11 @@ function generateProjectItem($project)
 <!DOCTYPE html>
 <html lang="en">
     <!-- Head -->
-    <?php include 'head.php' ?>
+    <?php require 'php-modules/head.php' ?>
     
         <body>
         <!-- Header -->
-	    <?php include 'header.php' ?>
+	    <?php require 'php-modules/header.php' ?>
         
         <!-- Title -->
 
@@ -105,7 +105,7 @@ function generateProjectItem($project)
         </section>
 
         <!-- Footer -->
-        <?php include 'footer.php' ?>
+        <?php require 'php-modules/footer.php' ?>
         
         <!-- Javascript for nav bar -->
         <script src="js/index.js"></script>
