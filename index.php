@@ -20,7 +20,9 @@
             <h2 class="section__title section__title--projects">My Projects</h2>
             <div class="projects">
                 <div class="project">
-                    <h3 class="project-title">Lightweight Drone Simulator</h3>
+                    <a class="project-link" href="/projects/lightweight-drone-simulator.php">
+                        <h3 class="project-title">Lightweight Drone Simulator</h3>
+                    </a>
                     <p class="project-text">
                         &nbsp;Over a 10 week period, I worked alongside two other students to design, develop, 
                         and test a Lightweight Drone Simulator. The project was under Dr. Cihan Tunc, a 
@@ -32,7 +34,9 @@
                 </div>
                 
                 <div class="project">
-                    <h3 class="project-title"> Photo Metadata Extractor Tool </h3>
+                    <a class="project-link" href="/projects/photo-metadata-extractor-tool.php">
+                        <h3 class="project-title"> Photo Metadata Extractor Tool </h3>
+                    </a>
                     <p class="project-text">
                         &nbsp;The Photo Metadata Extractor Tool (PMET) is designed to speed up the process of 
                         cataloguing SuDoc numbered books, with the possibility of expanding the tool to 
@@ -42,7 +46,9 @@
                 </div>
                 
                 <div class="project">
-                    <h3 class="project-title"> Project Override </h3>
+                    <a class="project-link" href="/projects/project-override.php">
+                        <h3 class="project-title"> Project Override </h3>
+                    </a>
                     <p class="project-text">
                         &nbsp; A rogue-like first-person-shooter I am making in Unity. This is a long term project which I hope
                         to eventually release on Steam but I enjoy continually improving and developing the game

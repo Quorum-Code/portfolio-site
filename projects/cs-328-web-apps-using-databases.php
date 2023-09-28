@@ -7,10 +7,10 @@
 	    <?php require '../php-modules/header.php' ?>
         
         <section class="section__individual-project">
-            <h2 class="section__individual-title individual-project-title"> Project Title </h2>
+            <h2 class="section__individual-title individual-project-title"> CS 328 Web Apps Using Databases </h2>
 
             <p class="individual-project-text">
-                &nbsp;Description
+                Description
             </p>
             
             <div class="individual-project-links">

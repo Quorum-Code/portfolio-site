@@ -10,7 +10,7 @@ function generateProjectItem($project)
     </div>
     <div class="project-item-text">
         <h2>
-            <a href="<?= $project['URL'] ?>"> <?= $project['title'] ?> </a>
+            <a href="<?= '..' . $project['URL'] ?>"> <?= $project['title'] ?> </a>
         </h2>
         <h3>
             <?= $project['last-update'] ?>
