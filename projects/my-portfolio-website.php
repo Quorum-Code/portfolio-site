@@ -8,6 +8,7 @@
         
         <section class="section__individual-project">
             <h2 class="section__individual-title individual-project-title"> My Portfolio Website </h2>
+            <h3 class="section__individual-subtitle"> All of My Projects In One Place </h3>
 
             <p class="individual-project-text">
                 &nbsp;I made this website to showcase my skills and projects in one place. I made this
@@ -29,6 +30,6 @@
         <!-- Footer -->
         <?php require '../php-modules/footer.php' ?>
 
-        <script src="js/index.js"></script>
+        <script src="../js/index.js"></script>
     </body>
 </html>

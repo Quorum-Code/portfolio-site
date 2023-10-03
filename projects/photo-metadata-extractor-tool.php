@@ -8,9 +8,23 @@
         
         <section class="section__individual-project">
             <h2 class="section__individual-title individual-project-title"> Photo Metadata Extractor Tool </h2>
+            <h3 class="section__individual-subtitle"> CS 458 Project - In Progress </h3>
 
             <p class="individual-project-text">
-                &nbsp;Description
+                &nbsp;The Photo Metadata Extractor Tool (PMET) is the tool my project team is currently developing for
+                the Computer Science Degree capstone course, CS 458 Software Engineering. The tool is being developed 
+                in Python and utilizes existing machine learning models and accesses the OCLC API. 
+            </p>
+
+            <p class="individual-project-text">
+                &nbsp;The portion of the project I am responsible for is the API access, which includes
+                creating the module for retrieving an authorization token from OCLC from a client id and
+                client secret key as well as understanding the API request parameters to meet the project
+                requirements. 
+            </p>
+
+            <p class="individual-project-note">
+                The source code and other documents are available below on GitHub. 
             </p>
             
             <div class="individual-project-links">
@@ -21,6 +35,6 @@
         <!-- Footer -->
         <?php require '../php-modules/footer.php' ?>
 
-        <script src="js/index.js"></script>
+        <script src="../js/index.js"></script>
     </body>
 </html>

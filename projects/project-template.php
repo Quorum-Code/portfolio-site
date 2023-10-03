@@ -21,6 +21,6 @@
         <!-- Footer -->
         <?php require '../php-modules/footer.php' ?>
 
-        <script src="js/index.js"></script>
+        <script src="../js/index.js"></script>
     </body>
 </html>

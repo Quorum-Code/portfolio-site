@@ -8,6 +8,7 @@
         
         <section class="section__individual-project">
             <h2 class="section__individual-title individual-project-title"> Lightweight Drone Simulator </h2>
+            <h3 class="section__individual-subtitle"> Research Experience for Undergraduates Project </h3>
 
             <p class="individual-project-text">
                 &nbsp;The simulator was developed during the TaMaLe Research Experience for Undergraduates
@@ -24,8 +25,8 @@
                 PDF is the latest version as of 9/27/2023.
             </p>
 
-            <p class="individual-project-text">
-                &nbsp;Note: I am only a maintainer on the GitLab project so the project may not be publicly
+            <p class="individual-project-note">
+                Note: I am only a maintainer on the GitLab project so the project may not be publicly
                 accessible.
             </p>
             
@@ -38,6 +39,6 @@
         <!-- Footer -->
         <?php require '../php-modules/footer.php' ?>
 
-        <script src="js/index.js"></script>
+        <script src="../js/index.js"></script>
     </body>
 </html>

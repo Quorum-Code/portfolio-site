@@ -3,7 +3,7 @@
     [
         {
             "title" : "My Portfolio Website",
-            "img-src" : "/img/project-thumbnails/my-logo-b.png",
+            "img-src" : "/img/project-thumbnails/portfolio-website-snapshot.png",
             "desc" : "I wanted a way to display my projects and .",
             "URL" : "/projects/my-portfolio-website.php",
             "last-update" : "09/27/2023",
@@ -15,16 +15,16 @@
             "img-src" : "/img/project-thumbnails/dsim-screenshot.png",
             "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program. This projects includes the paper we wrote and a link to the Gitlab repository (I am only a maintainer on the repository so access may not be available to others) .",
             "URL" : "/projects/lightweight-drone-simulator.php",
-            "last-update" : "08/18/2023",
+            "last-update" : "10/02/2023",
             "tags" : [ "Python", "JSON" ]
         },
 
         {
-            "title" : "Lightweight Drone Simulator - Paper",
-            "img-src" : "/img/project-thumbnails/dsim-screenshot.png",
-            "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program. This projects includes the paper we wrote and a link to the Gitlab repository (I am only a maintainer on the repository so access may not be available to others) .",
-            "URL" : "/projects/lightweight-drone-simulator.php",
-            "last-update" : "08/18/2023",
+            "title" : "Photo Metadata Extractor Tool",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "The Photo Metadata Extractor Tool is the project I am working on for CS 458 Software Engineering. The tool aims to speed up the processing of federal documents held by libraries.",
+            "URL" : "/projects/photo-metadata-extractor-tool.php",
+            "last-update" : "10/02/2023",
             "tags" : [ "Python", "JSON" ]
         },
 
