@@ -14,8 +14,12 @@
                 &nbsp;The simulator was developed during the TaMaLe Research Experience for Undergraduates
                 (REU) program 2023. The project I worked on for my 10 weeks with the program was
                 under Dr. Tunc, a Computer Engineering professor at the University of North Texas.
-                Dr. Tunc wanted us to work on developing a lightweight drone simulator that could
-                run faster and therefore require less resources compared to other available drone
+                The goal of the project was to make a lightweight drone simulator that could run
+                faster and use fewer system resources by abstracting the simulation interactions.
+                We also made an effort to keep the code as modular as possible so it can be
+                expanded upon or altered by other students in the future. Near the end of the ten
+                weeks we wrote a paper encompassing the development and use of the simulator, as
+                well as problems we encountered and some performance data to compare against other
                 simulators.
             </p>
 
@@ -23,6 +27,13 @@
                 &nbsp;The paper is in the process of being submitted to a conference and is
                 therefore still being changed to meet the conference requests. The downloadable
                 PDF is the latest version as of 9/27/2023.
+            </p>
+
+            <p class="individual-project-text">
+                &nbsp;As of 10/03/2023 the paper has been finalized and is in the process of being
+                published at the Software Designed Systems conference 2023. Information on the 
+                conference can be found <a href="https://emergingtechnet.org/SDS2023/" 
+                target="_blank">here</a>.
             </p>
 
             <p class="individual-project-note">

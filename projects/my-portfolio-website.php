@@ -11,14 +11,20 @@
             <h3 class="section__individual-subtitle"> All of My Projects In One Place </h3>
 
             <p class="individual-project-text">
-                &nbsp;I made this website to showcase my skills and projects in one place. I made this
-                by applying the knowledge I learned from CS 328, Web Apps Using Databases. The website 
-                itself is a virtual server on a Digital Ocean Droplet running a LAMP stack. I used PHP
-                to generate my project list as well as consolidate headers and footers into standalone
-                files.
+                &nbsp;I made this website to showcase my skills and projects in one place. Using what I 
+                learned from CS 279 Intro to Linux and CS 328 Web Apps, I build this website and set up 
+                and configured the virtual web server to host this site. The website is being run on a 
+                Digital Ocean Droplet running a LAMP stack. I used PHP to generate my project list as 
+                well as consolidate headers and footers into standalone files.
             </p>
 
             <p class="individual-project-text">
+                &nbsp;To utilize the top level domain '.dev' a site is required to have a valid SSL 
+                certificate. I chose Cloudflare to acquire my certificate and learned how to
+                configure my host and web server to make use of HTTPS.
+            </p>
+
+            <p class="individual-project-note">
                 Access to all the files is available on GitHub below.
             </p>
             
