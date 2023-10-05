@@ -4,10 +4,10 @@
         {
             "title" : "My Portfolio Website",
             "img-src" : "/img/project-thumbnails/portfolio-website-snapshot.png",
-            "desc" : "I wanted a way to display my projects and .",
+            "desc" : "I wanted a way to display my projects and skills in one place.",
             "URL" : "/projects/my-portfolio-website.php",
-            "last-update" : "09/27/2023",
-            "tags" : [ "HTML", "CSS", "Javascript", "PHP", "JSON" ]
+            "last-update" : "10/04/2023",
+            "tags" : [ "HTML", "CSS", "Javascript", "PHP", "JSON", "Git/GitHub" ]
         },
 
         {
@@ -16,7 +16,7 @@
             "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program.",
             "URL" : "/projects/lightweight-drone-simulator.php",
             "last-update" : "10/02/2023",
-            "tags" : [ "Python", "JSON" ]
+            "tags" : [ "Python", "JSON", "Git/GitHub" ]
         },
 
         {
@@ -24,17 +24,8 @@
             "img-src" : "/img/my-logo-b.png",
             "desc" : "The Photo Metadata Extractor Tool is the project I am working on for CS 458 Software Engineering. The tool aims to speed up the processing of federal documents held by libraries.",
             "URL" : "/projects/photo-metadata-extractor-tool.php",
-            "last-update" : "10/02/2023",
-            "tags" : [ "Python", "JSON" ]
-        },
-
-        {
-            "title" : "Project Override",
-            "img-src" : "/img/project-thumbnails/override-snip.png",
-            "desc" : "An in-progress rogue-like game made in Unity.",
-            "URL" : "/projects/project-override.php",
-            "last-update" : "09/24/2023",
-            "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling" ]
+            "last-update" : "10/04/2023",
+            "tags" : [ "Python", "JSON", "Git/GitHub" ]
         },
 
         {
@@ -42,8 +33,8 @@
             "img-src" : "/img/project-thumbnails/meowlaxy-thumbnail.png",
             "desc" : "Humboldt Hackathon project. A game made in less than 24 hours.",
             "URL" : "/projects/meowlaxy-hackathon.php",
-            "last-update" : "09/24/2023",
-            "tags" : [ "C#", "XML", "JSON", "Unity" ]
+            "last-update" : "04/16/2023",
+            "tags" : [ "C#", "XML", "Unity", "Git/GitHub" ]
         },
 
         {
@@ -56,22 +47,12 @@
         },
 
         {
-            "title" : "CS 279 Intro to Linux",
-            "img-src" : "/img/my-logo-b.png",
-            "desc" : "The course covered the general structure and tools related to Linux systems. Includes a repository containing all of my assignments and final project.",
-            "URL" : "/projects/cs-279-intro-to-linux.php",
-            "last-update" : "12/15/2022",
-            "tags" : [ "Bash" ]
-        },
-
-        {
-            "title" : "CS 325 Database Design",
-            "img-src" : "/img/my-logo-b.png",
-            "desc" : "Includes a repository containing all of my assignments and final project.",
-            "URL" : "/projects/cs-325-databases.php",
-            "in-progress" : true,
-            "last-update" : "12/15/2022",
-            "tags" : [ "SQL" ]
+            "title" : "Project Override",
+            "img-src" : "/img/project-thumbnails/override-snip.png",
+            "desc" : "An in-progress rogue-like game made in Unity.",
+            "URL" : "/projects/project-override.php",
+            "last-update" : "09/24/2023",
+            "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling", "Git/GitHub" ]
         },
 
         {
@@ -81,7 +62,26 @@
             "URL" : "/projects/cs-328-web-apps-using-databases.php",
             "in-progress" : true,
             "last-update" : "05/13/2023",
-            "tags" : [ "HTML", "CSS", "PHP", "Javascript", "SQL", "PL/SQL", "XML" ]
+            "tags" : [ "HTML", "CSS", "PHP", "Javascript", "SQL", "PL/SQL", "XML", "Git/GitHub" ]
+        },
+
+        {
+            "title" : "CS 325 Database Design",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "Includes a repository containing all of my assignments and final project.",
+            "URL" : "/projects/cs-325-databases.php",
+            "in-progress" : true,
+            "last-update" : "12/15/2022",
+            "tags" : [ "SQL", "Git/GitHub" ]
+        },
+
+        {
+            "title" : "CS 279 Intro to Linux",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "The course covered the general structure and tools related to Linux systems. Includes a repository containing all of my assignments and final project.",
+            "URL" : "/projects/cs-279-intro-to-linux.php",
+            "last-update" : "12/15/2022",
+            "tags" : [ "Bash", "Git/GitHub" ]
         }
     ]
 }

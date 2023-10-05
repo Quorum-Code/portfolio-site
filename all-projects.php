@@ -58,7 +58,6 @@ function generateProjectItem($project)
             <h1 class="section__title section__title--all-projects"> 
                 All Projects 
             </h1>
-
         <p>
             
         </p>
@@ -98,7 +97,13 @@ function generateProjectItem($project)
                 if ($num_projects == 0)
                 {
                     ?>
-                    <h4 class="section__title"> No projects with specified tag(s) found. </h4>
+                    <h3 class="section__title"> 
+                        No projects with specified tag(s) found.
+                    </h3>
+                    <p class="section__subtitle"> 
+                        If the tag is listed in my skills I have used it in a course but might not have a 
+                        project big enough for its own page.
+                    </p>
                     <?php
                 }
             ?>

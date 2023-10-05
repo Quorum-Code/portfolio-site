@@ -40,20 +40,24 @@
                     <p class="project-text">
                         &nbsp;The Photo Metadata Extractor Tool (PMET) is designed to speed up the process of 
                         cataloguing SuDoc numbered books, with the possibility of expanding the tool to 
-                        fit other document identifiers. This tool is the semester project for my capstone 
+                        fit other document identifiers. The prototype tool makes use of machine learning to convert
+                        images to text, then we access OCLC's WorldCat Search API to search for a corresponding 
+                        document from the Library of Congress registry. Finally we process the request results into 
+                        a CSV file to be used by library staff. This tool is the semester project for my capstone 
                         course, CS 458 Software Engineering.
                     </p>
                 </div>
                 
                 <div class="project">
-                    <a class="project-link" href="/projects/project-override.php">
-                        <h3 class="project-title"> Project Override </h3>
+                    <a class="project-link" href="/projects/meowlaxy-hackathon.php">
+                        <h3 class="project-title"> Meowlaxy Humboldt Hackathon </h3>
                     </a>
                     <p class="project-text">
-                        &nbsp; A rogue-like first-person-shooter I am making in Unity. This is a long term project which I hope
-                        to eventually release on Steam but I enjoy continually improving and developing the game
-                        when I have time. Majority of the assets, like 3D models, textures, and C# scripts, I have developed
-                        myself.
+                        &nbsp; I worked with a team of four other students to develop the a game in Unity for the 
+                        competition. For the actual gameplay we decided to make a planet defense game, in which 
+                        you play as a cat with a space ship destroying waves of asteroids and aliens. Those enemies 
+                        drop stars which strengthen your ship, making it shoot faster, deal more damage, or move faster.
+                        We finished the game in under 24 hours and ended up getting 4th place.
                     </p>
                 </div>
             </div>
