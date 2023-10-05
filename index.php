@@ -74,11 +74,11 @@
             <div class="skills">
                 <ul class="skill">
                     <a class="skill_link" href="/all-projects.php?tag=C%23"><li>C#</li></a>
-                    <a class="skill_link" href="/all-projects.php?tag=C%2FC%2B%2B"><li>C/C++</li></a>
                     <a class="skill_link" href="/all-projects.php?tag=Python"><li>Python</li></a>
-                    <a class="skill_link" href="/all-projects.php?tag=Java"><li>Java</li></a>
                     <a class="skill_link" href="/all-projects.php?tag=PHP"><li>PHP</li></a>
                     <a class="skill_link" href="/all-projects.php?tag=Javascript"><li>Javascript</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=C%2FC%2B%2B"><li>C/C++</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Java"><li>Java</li></a>
                 </ul>
 
                 <ul class="skill">
@@ -89,7 +89,7 @@
                 </ul>
 
                 <ul class="skill">
-                    <a class="skill_link" href="/all-projects.php?tag=Git%2FGithub"><li>Git/Github</li></a>
+                    <a class="skill_link" href="/all-projects.php?tag=Git%2FGitHub"><li>Git/GitHub</li></a>
                     <a class="skill_link" href="/all-projects.php?tag=Bash"><li>Bash</li></a>
                 </ul>
             </div>
