@@ -13,7 +13,7 @@
         {
             "title" : "Lightweight Drone Simulator",
             "img-src" : "/img/project-thumbnails/dsim-screenshot.png",
-            "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program. This projects includes the paper we wrote and a link to the Gitlab repository (I am only a maintainer on the repository so access may not be available to others) .",
+            "desc" : "The Lightweight Drone Simulator is a tool I helped develop during my Research Experience for Undergraduates (REU) program.",
             "URL" : "/projects/lightweight-drone-simulator.php",
             "last-update" : "10/02/2023",
             "tags" : [ "Python", "JSON" ]
@@ -31,25 +31,43 @@
         {
             "title" : "Project Override",
             "img-src" : "/img/project-thumbnails/override-snip.png",
-            "desc" : "A rogue-like game made in Unity.",
+            "desc" : "An in-progress rogue-like game made in Unity.",
             "URL" : "/projects/project-override.php",
             "last-update" : "09/24/2023",
             "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling" ]
         },
 
         {
+            "title" : "Meowlaxy - Humboldt Hackathon",
+            "img-src" : "/img/project-thumbnails/meowlaxy-thumbnail.png",
+            "desc" : "Humboldt Hackathon project. A game made in less than 24 hours.",
+            "URL" : "/projects/meowlaxy-hackathon.php",
+            "last-update" : "09/24/2023",
+            "tags" : [ "C#", "XML", "JSON", "Unity" ]
+        },
+
+        {
+            "title" : "Hamish Hamster - Game Jam",
+            "img-src" : "/img/project-thumbnails/thumbnail-hamish-hamster.png",
+            "desc" : "A puzzle platformer made in under two weeks.",
+            "URL" : "/projects/hamish-hamster.php",
+            "last-update" : "06/21/2021",
+            "tags" : [ "C#", "XML", "JSON", "Unity" ]
+        },
+
+        {
             "title" : "CS 279 Intro to Linux",
             "img-src" : "/img/my-logo-b.png",
-            "desc" : "Intro to Linux is a course which focuses on commands and understanding system structure of linux based systems. This contains access to a repository with homework and lab assignments.",
+            "desc" : "The course covered the general structure and tools related to Linux systems. Includes a repository containing all of my assignments and final project.",
             "URL" : "/projects/cs-279-intro-to-linux.php",
             "last-update" : "12/15/2022",
             "tags" : [ "Bash" ]
         },
 
         {
-            "title" : "CS 325 Databases",
+            "title" : "CS 325 Database Design",
             "img-src" : "/img/my-logo-b.png",
-            "desc" : "A repository containing all of my .",
+            "desc" : "Includes a repository containing all of my assignments and final project.",
             "URL" : "/projects/cs-325-databases.php",
             "in-progress" : true,
             "last-update" : "12/15/2022",
@@ -57,9 +75,9 @@
         },
 
         {
-            "title" : "CS 328 Web Apps Using Database",
+            "title" : "CS 328 Web Apps Using Databases",
             "img-src" : "/img/my-logo-b.png",
-            "desc" : "A repository containing all of my assignments for CS 328.",
+            "desc" : "Web Apps Using Databases. Includes a repository containing all of my assignments and final project.",
             "URL" : "/projects/cs-328-web-apps-using-databases.php",
             "in-progress" : true,
             "last-update" : "05/13/2023",

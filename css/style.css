@@ -575,6 +575,15 @@ header {
     font-style: italic;
 }
 
+.individual-project-img-small {
+    width: 450px;
+    margin: 0 auto;
+}
+
+.individual-project-img-full {
+    margin: 0 auto;
+}
+
 /* Page not found */
 
 .section__error {

@@ -7,14 +7,14 @@
 	    <?php require '../php-modules/header.php' ?>
         
         <section class="section__individual-project">
-            <h2 class="section__individual-title individual-project-title"> CS 325 Databases </h2>
+            <h2 class="section__individual-title individual-project-title"> CS 325 - Database Design </h2>
             <h3 class="section__individual-subtitle"> Assignments </h3>
 
             <p class="individual-project-text">
                 &nbsp;The course introduced SQL and many of the key concepts necessary to create our own database.
                 The final project of the course allowed us to apply this knowledge by creating our own database that
-                utilizes the functions and concepts covered. For my final project I made a simple database copying 
-                the functionality of a birding app.  
+                utilizes the functions and concepts covered. For my final project I made a simple yet functional 
+                database imitating the backend required for a birding app.  
             </p>
 
             <p class="individual-project-note">
