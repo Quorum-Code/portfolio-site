@@ -27,7 +27,7 @@
                         &nbsp;Over a 10 week period, I worked alongside two other students to design, develop, 
                         and test a Lightweight Drone Simulator. The project was under Dr. Cihan Tunc, a 
                         professor from University of North Texas. The purpose of the project was to develop 
-                        a software that can be used to simulate a large number of drones and their behaviors 
+                        a tool that can be used to simulate a large number of drones and their behaviors 
                         as quickly as possible. The difference between our simulator and others is that ours 
                         does not focus on graphic quality and we use a simplified version of collision detection. 
                     </p>
@@ -114,7 +114,7 @@
                         game jams, which is a kind of competition or challenge to create a
                         game in a limited amount of time usually less than a week. Another
                         hobby I have is tabletop gaming, which I like to make 3D models for
-                        and 3D print those as well.
+                        printing.
                     </p>
                 </div>
         </section>

@@ -26,6 +26,12 @@
         </p>
 
         <p class="individual-project-note">
+            Storyboard depicting use of the tool.
+        </p>
+
+        <img class="individual-project-img-full" src="../img/simple-user-story-board.png" alt="Storyboard depicting use of the tool">
+
+        <p class="individual-project-note">
             The source code and other documents are available below on GitHub.
         </p>
 

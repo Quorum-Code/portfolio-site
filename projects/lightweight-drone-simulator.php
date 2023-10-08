@@ -26,7 +26,7 @@
             <p class="individual-project-text">
                 &nbsp;The paper is in the process of being submitted to a conference and is
                 therefore still being changed to meet the conference requests. The downloadable
-                PDF is the latest version as of 9/27/2023.
+                PDF is the latest version as of 10/08/2023.
             </p>
 
             <p class="individual-project-text">
@@ -38,11 +38,11 @@
 
             <p class="individual-project-note">
                 Note: I am only a maintainer on the GitLab project so the project may not be publicly
-                accessible.
+                accessible at this time.
             </p>
             
             <div class="individual-project-links">
-                <a href="../downloads/SDS2023_paper_5595.pdf" class="btn" download=""> <h3> Download the paper </h3> </a>
+                <a href="../downloads/REU__Lightweight_Drone_Simulator.pdf" class="btn" download=""> <h3> Download the paper </h3> </a>
                 <a href="https://gitlab.com/reu-tamale/drone_simulator/dsim_2023" class="btn" target="_blank"> <h3> GitLab </h3> </a>
             </div>
         </section>
