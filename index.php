@@ -28,8 +28,9 @@
                         and test a Lightweight Drone Simulator. The project was under Dr. Cihan Tunc, a 
                         professor from University of North Texas. The purpose of the project was to develop 
                         a tool that can be used to simulate a large number of drones and their behaviors 
-                        as quickly as possible. The difference between our simulator and others is that ours 
-                        does not focus on graphic quality and we use a simplified version of collision detection. 
+                        as effeciently as possible. The difference between our simulator and others is that ours 
+                        is focused on drone behaviour and a user can manipulate interactions through a 
+                        configuration file.
                     </p>
                 </div>
                 
@@ -49,15 +50,16 @@
                 </div>
                 
                 <div class="project">
-                    <a class="project-link" href="/projects/meowlaxy-hackathon.php">
-                        <h3 class="project-title"> Meowlaxy Humboldt Hackathon </h3>
+                    <a class="project-link" href="/projects/my-portfolio-website.php">
+                        <h3 class="project-title"> My Portfolio Site </h3>
                     </a>
                     <p class="project-text">
-                        &nbsp; I worked with a team of four other students to develop the a game in Unity for the 
-                        competition. For the actual gameplay we decided to make a planet defense game, in which 
-                        you play as a cat with a space ship destroying waves of asteroids and aliens. Those enemies 
-                        drop stars which strengthen your ship, making it shoot faster, deal more damage, or move faster.
-                        We finished the game in under 24 hours and ended up getting 4th place.
+                        &nbsp;I made this website to showcase my skills and projects in one place. The site is 
+                        running as a Digital Ocean droplet using a LAMP stack. Using what I learned from CS 279 
+                        Intro to Linux and CS 328 Web Apps, I built this website and set up and configured the 
+                        virtual web server to host this site. I used PHP to generate my project list as well as 
+                        consolidate headers and footers into standalone files. The site also has a corresponding 
+                        SSL Certificate in order to have the '.dev' top-level domain.
                     </p>
                 </div>
             </div>
