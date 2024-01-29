@@ -6,8 +6,17 @@
             "img-src" : "/img/project-thumbnails/portfolio-website-snapshot.png",
             "desc" : "I wanted a way to display my projects and skills in one place.",
             "URL" : "/projects/my-portfolio-website.php",
-            "last-update" : "10/04/2023",
+            "last-update" : "01/29/2024",
             "tags" : [ "HTML", "CSS", "Javascript", "PHP", "JSON", "Git/GitHub" ]
+        },
+
+        {
+            "title" : "Photo Metadata Extractor Tool",
+            "img-src" : "/img/my-logo-b.png",
+            "desc" : "The Photo Metadata Extractor Tool is the project I am working on for CS 458 Software Engineering. The tool aims to speed up the processing of federal documents held by libraries.",
+            "URL" : "/projects/photo-metadata-extractor-tool.php",
+            "last-update" : "01/28/2024",
+            "tags" : [ "Python", "JSON", "Git/GitHub" ]
         },
 
         {
@@ -19,14 +28,7 @@
             "tags" : [ "Python", "JSON", "Git/GitHub" ]
         },
 
-        {
-            "title" : "Photo Metadata Extractor Tool",
-            "img-src" : "/img/my-logo-b.png",
-            "desc" : "The Photo Metadata Extractor Tool is the project I am working on for CS 458 Software Engineering. The tool aims to speed up the processing of federal documents held by libraries.",
-            "URL" : "/projects/photo-metadata-extractor-tool.php",
-            "last-update" : "10/04/2023",
-            "tags" : [ "Python", "JSON", "Git/GitHub" ]
-        },
+        
 
         {
             "title" : "Meowlaxy - Humboldt Hackathon",
@@ -35,24 +37,6 @@
             "URL" : "/projects/meowlaxy-hackathon.php",
             "last-update" : "04/16/2023",
             "tags" : [ "C#", "XML", "Unity", "Git/GitHub" ]
-        },
-
-        {
-            "title" : "Hamish Hamster - Game Jam",
-            "img-src" : "/img/project-thumbnails/thumbnail-hamish-hamster.png",
-            "desc" : "A puzzle platformer made in under two weeks.",
-            "URL" : "/projects/hamish-hamster.php",
-            "last-update" : "06/21/2021",
-            "tags" : [ "C#", "XML", "JSON", "Unity" ]
-        },
-
-        {
-            "title" : "Project Override",
-            "img-src" : "/img/project-thumbnails/override-snip.png",
-            "desc" : "An in-progress rogue-like game made in Unity.",
-            "URL" : "/projects/project-override.php",
-            "last-update" : "09/24/2023",
-            "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling", "Git/GitHub" ]
         },
 
         {
@@ -82,6 +66,24 @@
             "URL" : "/projects/cs-279-intro-to-linux.php",
             "last-update" : "12/15/2022",
             "tags" : [ "Bash", "Git/GitHub" ]
+        },
+
+        {
+            "title" : "Project Override",
+            "img-src" : "/img/project-thumbnails/override-snip.png",
+            "desc" : "An in-progress rogue-like game made in Unity.",
+            "URL" : "/projects/project-override.php",
+            "last-update" : "09/24/2023",
+            "tags" : [ "C#", "XML", "JSON", "Unity", "Blender", "3D-Modeling", "Git/GitHub" ]
+        },
+
+        {
+            "title" : "Hamish Hamster - Game Jam",
+            "img-src" : "/img/project-thumbnails/thumbnail-hamish-hamster.png",
+            "desc" : "A puzzle platformer made in under two weeks.",
+            "URL" : "/projects/hamish-hamster.php",
+            "last-update" : "06/21/2021",
+            "tags" : [ "C#", "XML", "JSON", "Unity" ]
         }
     ]
 }
