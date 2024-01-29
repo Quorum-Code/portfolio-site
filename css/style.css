@@ -83,6 +83,7 @@ strong { font-weight: var(--fw-bold) }
     letter-spacing: 2px;
     font-weight: var(--fw-bold);
     transition: transform 200ms ease-in-out;
+    border-radius: 8px;
 }
 
 .btn:hover {
@@ -101,15 +102,14 @@ h2 { font-size: var(--fs-h2) }
 h3 { font-size: var(--fs-h3) }
 
 .section__title {
-    margin-bottom: .25em;
+    margin-top: .25em;
 }
 
 .section__title--intro {
     font-weight: var(--fw-reg);
-}
-
-.section__title--intro strong {
-    display: block;
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 0.25em;
 }
 
 .section__subtitle {
@@ -522,6 +522,12 @@ header {
     outline: 2px solid var(--clr-soft);
     margin-bottom: 1em;
     display: flex;
+}
+
+@media (max-width: 800px) {
+    .project-item {
+        flex-direction: column;
+    }
 }
 
 .project-item-img {

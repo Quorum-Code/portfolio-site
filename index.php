@@ -9,9 +9,9 @@
         <!-- Intro -->
         <section class="intro" id="home">
             <h1 class="section__title section__title--intro">
-                Hi, I am <strong>Evan Putnam</strong>
+                <strong>Evan Putnam</strong>
             </h1>
-            <p class="section__subtitle section__subtitle--intro"> Software Developer </p>
+            <p class="section__subtitle section__subtitle--intro"> Computer Science Graduate </p>
             <img src="img/portrait.jpg" alt="Headshot of Evan Putnam" class="intro__img">
         </section>
             
@@ -59,7 +59,8 @@
                         Intro to Linux and CS 328 Web Apps, I built this website and set up and configured the 
                         virtual web server to host this site. I used PHP to generate my project list as well as 
                         consolidate headers and footers into standalone files. The site also has a corresponding 
-                        SSL Certificate in order to have the '.dev' top-level domain.
+                        SSL Certificate in order to have the '.dev' top-level domain. I've also made sure this site
+                        is mobile friendly.
                     </p>
                 </div>
             </div>
@@ -104,19 +105,18 @@
                 
                 <div class="about-me__body">
                     <p class="about-me__text">
-                        &nbsp;I am an undergraduate student at California Polytechnic Humboldt, 
-			            scheduled to graduate December 2023 with a B.S. in Computer Science. I have
-                        also completed a Computer Science Associates for Transfer at the Los Rios 
-                        Community College district.
+                        &nbsp;I received a Bachelor's in Computer Science from California Polytechnic Humboldt 
+                        December 2023, with a cumulative GPA of 3.8. I have also completed a Computer Science 
+                        Associates for Transfer at the Los Rios Community College district.
 
                     </p>
                     <p class="about-me__text">
-                        &nbsp;I like making and working on lots of different things which are
-                        usually related to computers. One those things is participating in 
+                        &nbsp;I enjoy making lots of different things, not all of which
+                        are related to computer science. One those things is participating in 
                         game jams, which is a kind of competition or challenge to create a
-                        game in a limited amount of time usually less than a week. Another
+                        game in a limited amount of time, often less than a week. Another
                         hobby I have is tabletop gaming, which I like to make 3D models for
-                        printing.
+                        3D printing using an SLA or resin printer.
                     </p>
                 </div>
         </section>
