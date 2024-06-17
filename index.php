@@ -17,7 +17,7 @@
             
         <!-- Projects -->
         <section class="my-projects" id="projects">
-            <h2 class="section__title section__title--projects">My Projects</h2>
+            <h2 class="section__title section__title--projects">Some of My Projects</h2>
             <div class="projects">
                 <div class="project">
                     <a class="project-link" href="/projects/lightweight-drone-simulator.php">
@@ -105,24 +105,23 @@
                 
                 <div class="about-me__body">
                     <p class="about-me__text">
-                        &nbsp;I received a Bachelor's in Computer Science from California Polytechnic Humboldt 
-                        December 2023, with a cumulative GPA of 3.8. I have also completed a Computer Science 
-                        Associates for Transfer at the Los Rios Community College district.
+                        &nbsp;I received a Bachelor's in Computer Science from California Polytechnic Humboldt in
+                        December 2023, with a cumulative 3.8 GPA. I have also completed a Computer Science Associate
+                        for Transfer at Los Rios Community College District.
 
                     </p>
                     <p class="about-me__text">
-                        &nbsp;I enjoy making lots of different things, not all of which
-                        are related to computer science. One those things is participating in 
-                        game jams, which is a kind of competition or challenge to create a
-                        game in a limited amount of time, often less than a week. Another
-                        hobby I have is tabletop gaming, which I like to make 3D models for
-                        3D printing using an SLA or resin printer.
+                        &nbsp;I enjoy making lots of different things, not all of which are related to computer
+                        science. One of those things is participating in game jams, which is a kind of competition
+                        or challenge to create a game in a limited amount of time, often less than a week. Another
+                        hobby I have is tabletop gaming, in which I like to make 3D models for 3D printing using
+                        an SLA or resin printer.
                     </p>
                 </div>
         </section>
         
         <div class="resume-btn">
-            <a href="downloads/Resume - Evan Putnam.pdf" class="btn" download=""> <h3>Download My Resume</h3> </a>
+            <a href="downloads/Resume - Evan Putnam.pdf" class="btn" target="_blank"> <h3>My Resume</h3> </a>
         </div>
 
         <!-- Footer -->

@@ -8,15 +8,18 @@
 
     <section class="section__individual-project">
         <h2 class="section__individual-title individual-project-title"> Photo Metadata Extractor Tool </h2>
-        <h3 class="section__individual-subtitle"> CS 458 Project - In Progress </h3>
+        <h3 class="section__individual-subtitle"> CS 458 Project and Library Sponsored Project </h3>
 
+        
         <p class="individual-project-text">
             &nbsp;The Photo Metadata Extractor Tool (PMET) is the tool my project team is currently developing for
             the Computer Science Degree capstone course, CS 458 Software Engineering. The tool is being developed
             in Python and utilizes existing machine learning models to convert images of SuDoc identifiers to text
             and accesses the OCLC API to search the Library of Congress registry.
         </p>
-
+        
+        <img class="individual-project-img-full" src="../img/figures/pmet-snip.PNG" alt="Screenshot of PMET program">
+        
         <p class="individual-project-text">
             &nbsp;The portion of the project I am responsible for is the API access, which includes
             creating the module for retrieving an authorization token from OCLC from a client id and

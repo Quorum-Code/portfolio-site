@@ -259,6 +259,11 @@ header {
     box-shadow: var(--bs);
 }
 
+.project__img {
+    box-shadow: var(--bs);
+    width: 250px;
+}
+
 @media (min-width: 800px) {
     .intro {
         display: grid;
@@ -588,6 +593,7 @@ header {
 
 .individual-project-img-full {
     margin: 0 auto;
+    box-shadow: var(--bs);
 }
 
 /* Page not found */
