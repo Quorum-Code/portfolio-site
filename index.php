@@ -40,12 +40,13 @@
                     </a>
                     <p class="project-text">
                         &nbsp;The Photo Metadata Extractor Tool (PMET) is designed to speed up the process of 
-                        cataloguing SuDoc numbered books, with the possibility of expanding the tool to 
-                        fit other document identifiers. The prototype tool makes use of machine learning to convert
-                        images to text, then we access OCLC's WorldCat Search API to search for a corresponding 
+                        cataloguing SuDoc numbered books, with the ability to configure the program for other 
+                        document identifiers. The tool makes use of machine learning to extract
+                        text from images, then we access OCLC's WorldCat Search API to search for a corresponding 
                         document from the Library of Congress registry. Finally we process the request results into 
                         a CSV file to be used by library staff. This tool is the semester project for my capstone 
-                        course, CS 458 Software Engineering.
+                        course, CS 458 Software Engineering and the team was later hired to develop the program
+                        into a releasable version.
                     </p>
                 </div>
                 
@@ -106,8 +107,8 @@
                 <div class="about-me__body">
                     <p class="about-me__text">
                         &nbsp;I received a Bachelor's in Computer Science from California Polytechnic Humboldt in
-                        December 2023, with a cumulative 3.8 GPA. I have also completed a Computer Science Associate
-                        for Transfer at Los Rios Community College District.
+                        December 2023. I have also completed a Computer Science Associate for Transfer at Los Rios
+                         Community College District.
 
                     </p>
                     <p class="about-me__text">
